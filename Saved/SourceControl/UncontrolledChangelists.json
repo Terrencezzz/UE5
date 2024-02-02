@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Game/Project/Content/Map0.umap",
+				"C:/Game/Project/Content/Blueprint/BP_MyProjectGameModeBase.uasset",
+				"C:/Game/Project/Content/Blueprint/BP_MyCharacter.uasset",
+				"C:/Game/Project/Content/Blueprint/BP_MyCharacter.uasset"
+			]
+		}
+	]
+}
